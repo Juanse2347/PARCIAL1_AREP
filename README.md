@@ -1,7 +1,7 @@
 
 ## REQUERIMIENTOS ##
 
-/*Diagrama Arquitectura/*
+*Diagrama Arquitectura*
 
 ![Image](https://github.com/user-attachments/assets/0794f31c-6048-48ed-a1c7-390753bf1853)
 
