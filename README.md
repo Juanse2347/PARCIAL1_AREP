@@ -1,5 +1,14 @@
 
-## Taller de verificación de conocimientos técnicos ##
+## REQUERIMIENTOS ##
+
+/*Diagrama Arquitectura/*
+
+![Image](https://github.com/user-attachments/assets/0794f31c-6048-48ed-a1c7-390753bf1853)
+
+
+## TALLER DE VERFICACION DE CONOCIMIENTOS TECNICOS ##
+
+
 
 Descripción:
 
