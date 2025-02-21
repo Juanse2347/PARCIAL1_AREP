@@ -17,3 +17,7 @@ Usted debe construir un "Reflective ChatGPT". La solución consta de un servidor
 
 ![Image](https://github.com/user-attachments/assets/7c93acab-7078-494c-b0b5-71905d45e09f)
 
+
+## AUTOR ##
+
+Juan Sebastian Sanchez Moreno
