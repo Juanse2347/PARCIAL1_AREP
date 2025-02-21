@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-public class HttpConnectionExample {
+public class FacadeService {
     private static final String USER_AGENT = "Mozilla/5.0";
     private static final String GET_URL = "https://localhost:30000/";
 
